@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao perfil do Shintaku-Afro 😁
 
  <div>
-   <a href="https://www.palmeiras.com.br">
-   <img height="180em" width="300" src="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_nova_arena_allianz_palmeiras5.jpg?quality=70&strip=info&w=960" =/>
+   <a href="https://github.com">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shintakusep-welington&show_icons=true&theme=tokyonight&inclube_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shintakusep-welington&layout=compact&langs_count=6&theme=tokyonight"/>
+    
  </a>
   <a href="https://www.palmeiras.com.br">
     <img height="180em" width="300" src="https://www.ofutebolero.com.br/__export/1622067858611/sites/elfutboleromx/img/2021/05/26/abel-ferreira-palmeiras-delfin-libertadores-02-12-2020_10f8ssrd1v0o51iced9fmnfiho.jpg_1720385577.jpg"/>
